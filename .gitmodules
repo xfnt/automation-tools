@@ -1,0 +1,3 @@
+[submodule "forge-it-core"]
+	path = forge-it-core
+	url = git@github.com:xfnt/forge-it-core.git
